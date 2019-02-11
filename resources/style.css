@@ -51,7 +51,14 @@ header img {
 
 footer {
   text-align: left;
+}
+
+span {
   font-weight: bold;
+}
+
+.imagetext img {
+  padding: 10px;
 }
 
 .flex-container {
